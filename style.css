@@ -180,3 +180,8 @@ footer {
     text-align: center;
     padding: 2rem;
 }
+
+footer h1 {
+    font-family: 'Merriweather', serif;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
